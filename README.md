@@ -1,4 +1,4 @@
-# VideoTube Backend API
+# VideoTube Backend Project
 
 ## Overview
 
